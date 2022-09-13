@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="APP_NAME">OhReady</string>
+
+    <!-- FACEBOOK -->
+    <string name="FACEBOOK_APP_ID">247029740975832</string>
+    <string name="FB_LOGIN_PROTOCOL_SCHEME">737e85a6d4f033ab3c7a929b8bec091f</string>
+
+    <!-- GOOGLE MAPS  -->
+    <string name="MAPS_API_KEY">AIzaSyASyWyIw5Un3TgCD9LWgcuRM8UDFcC2Kvw</string>
+    
+</resources>
